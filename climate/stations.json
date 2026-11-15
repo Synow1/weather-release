@@ -1,0 +1,218 @@
+[
+ {
+  "stn": "108",
+  "name": "서울",
+  "first": "19071001",
+  "last": "20261114",
+  "days": 42323,
+  "failedDecades": []
+ },
+ {
+  "stn": "112",
+  "name": "인천",
+  "first": "19040410",
+  "last": "20261114",
+  "days": 44292,
+  "failedDecades": []
+ },
+ {
+  "stn": "119",
+  "name": "수원",
+  "first": "19640101",
+  "last": "20261114",
+  "days": 22964,
+  "failedDecades": []
+ },
+ {
+  "stn": "98",
+  "name": "동두천",
+  "first": "19980101",
+  "last": "20261114",
+  "days": 10545,
+  "failedDecades": []
+ },
+ {
+  "stn": "95",
+  "name": "철원",
+  "first": "19880101",
+  "last": "20261114",
+  "days": 14198,
+  "failedDecades": []
+ },
+ {
+  "stn": "101",
+  "name": "춘천",
+  "first": "19660101",
+  "last": "20261114",
+  "days": 22233,
+  "failedDecades": []
+ },
+ {
+  "stn": "105",
+  "name": "강릉",
+  "first": "19111004",
+  "last": "20261114",
+  "days": 41664,
+  "failedDecades": []
+ },
+ {
+  "stn": "100",
+  "name": "대관령",
+  "first": "19710715",
+  "last": "20261114",
+  "days": 20196,
+  "failedDecades": []
+ },
+ {
+  "stn": "114",
+  "name": "원주",
+  "first": "19270907",
+  "last": "20261114",
+  "days": 20165,
+  "failedDecades": []
+ },
+ {
+  "stn": "131",
+  "name": "청주",
+  "first": "19670101",
+  "last": "20261114",
+  "days": 21868,
+  "failedDecades": []
+ },
+ {
+  "stn": "133",
+  "name": "대전",
+  "first": "19690101",
+  "last": "20261114",
+  "days": 21137,
+  "failedDecades": []
+ },
+ {
+  "stn": "129",
+  "name": "서산",
+  "first": "19680101",
+  "last": "20261114",
+  "days": 21503,
+  "failedDecades": []
+ },
+ {
+  "stn": "146",
+  "name": "전주",
+  "first": "19180623",
+  "last": "20261114",
+  "days": 39424,
+  "failedDecades": []
+ },
+ {
+  "stn": "156",
+  "name": "광주",
+  "first": "19390501",
+  "last": "20261114",
+  "days": 31975,
+  "failedDecades": []
+ },
+ {
+  "stn": "165",
+  "name": "목포",
+  "first": "19040408",
+  "last": "20261114",
+  "days": 44205,
+  "failedDecades": []
+ },
+ {
+  "stn": "168",
+  "name": "여수",
+  "first": "19420301",
+  "last": "20261114",
+  "days": 30817,
+  "failedDecades": []
+ },
+ {
+  "stn": "143",
+  "name": "대구",
+  "first": "19070131",
+  "last": "20261114",
+  "days": 43126,
+  "failedDecades": []
+ },
+ {
+  "stn": "136",
+  "name": "안동",
+  "first": "19730101",
+  "last": "20261114",
+  "days": 17970,
+  "failedDecades": []
+ },
+ {
+  "stn": "138",
+  "name": "포항",
+  "first": "19440717",
+  "last": "20261114",
+  "days": 28297,
+  "failedDecades": []
+ },
+ {
+  "stn": "152",
+  "name": "울산",
+  "first": "19320106",
+  "last": "20261114",
+  "days": 29640,
+  "failedDecades": []
+ },
+ {
+  "stn": "159",
+  "name": "부산",
+  "first": "19040409",
+  "last": "20261114",
+  "days": 44780,
+  "failedDecades": []
+ },
+ {
+  "stn": "155",
+  "name": "창원",
+  "first": "19850701",
+  "last": "20261114",
+  "days": 15112,
+  "failedDecades": []
+ },
+ {
+  "stn": "192",
+  "name": "진주",
+  "first": "19690301",
+  "last": "20261114",
+  "days": 21077,
+  "failedDecades": []
+ },
+ {
+  "stn": "184",
+  "name": "제주",
+  "first": "19230501",
+  "last": "20261114",
+  "days": 37819,
+  "failedDecades": []
+ },
+ {
+  "stn": "189",
+  "name": "서귀포",
+  "first": "19610101",
+  "last": "20261114",
+  "days": 24059,
+  "failedDecades": []
+ },
+ {
+  "stn": "115",
+  "name": "울릉도",
+  "first": "19380810",
+  "last": "20261114",
+  "days": 32239,
+  "failedDecades": []
+ },
+ {
+  "stn": "102",
+  "name": "백령도",
+  "first": "20000801",
+  "last": "20261114",
+  "days": 9602,
+  "failedDecades": []
+ }
+]
